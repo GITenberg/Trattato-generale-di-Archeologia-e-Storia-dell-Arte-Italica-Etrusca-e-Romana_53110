@@ -1,0 +1,36 @@
+_repo: Trattato-generale-di-Archeologia-e-Storia-dell-Arte-Italica-Etrusca-e-Romana_53110
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Ricci, Serafino
+    birthdate: 1867
+    deathdate: 1943
+    gutenberg_agent_id: '47222'
+    url: http://www.gutenberg.org/2009/agents/47222
+  - agent_name: Gentile, Iginio
+    birthdate: 1843
+    deathdate: 1893
+    gutenberg_agent_id: '47221'
+    url: http://www.gutenberg.org/2009/agents/47221
+description: ''
+gutenberg_bookshelf: IT Archeologia e Storia dell'arte
+gutenberg_issued: '2016-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53110'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art, Roman'
+- !lcsh 'Etruria -- Antiquities'
+- !lcsh 'Art, Italic'
+- !lcsh 'Classical antiquities'
+- !lcsh 'Rome -- Antiquities'
+- !lcc 'DG'
+- !lcsh 'Art, Etruscan'
+- !lcsh 'Italy -- Antiquities'
+- GITenberg
+title: 'Trattato generale di Archeologia e Storia dell''Arte: Italica, Etrusca e Romana'
+url: http://www.gutenberg.org/ebooks/53110
