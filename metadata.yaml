@@ -1,5 +1,8 @@
 _repo: Trattato-generale-di-Archeologia-e-Storia-dell-Arte-Italica-Etrusca-e-Romana_53110
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53110-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ricci, Serafino
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '47221'
     url: http://www.gutenberg.org/2009/agents/47221
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53110#Trattato-generale-di-Archeologia-e-Storia-dell-Arte-Italica-Etrusca-e-Romana
 gutenberg_bookshelf: IT Archeologia e Storia dell'arte
 gutenberg_issued: '2016-09-21'
 gutenberg_type: Text
